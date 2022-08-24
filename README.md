@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and movies.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on frontend development(Flutter project).
-- 📫 Reach me via dasprasun1234@gmail.com
+- 📫 Reach me via devprasundas@outlook.com
 
 <!---
 devdasz/devdasz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
